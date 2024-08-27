@@ -19,6 +19,7 @@ public class whoarewe {
 	public void drop()
 	{
 		who.click();
+		Thread.sleep(1000);
 		
 	}
 
